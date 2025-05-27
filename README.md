@@ -2,8 +2,8 @@
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0AkshathaV&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/0AkshathaV?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=VarshiniJ29V&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/VarshiniJ29?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
