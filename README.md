@@ -36,6 +36,16 @@ BMI-Calculator/
 ├── script.js # JavaScript logic for BMI calculation
 └── README.md # Project documentation (this file)
 
+## 🚀 Features
+
+- Input fields for weight (kg), height (cm), age (optional), and gender (optional)
+- Dynamically calculates BMI when the user submits the form
+- Displays BMI value, category (e.g., underweight, normal), and an interpretation message
+- Responsive and accessible layout
+
+---
+
+
 🤝 Acknowledgments
 Created as part of a personal project to practice frontend development and Git/GitHub workflows.
 
