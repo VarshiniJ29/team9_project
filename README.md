@@ -31,10 +31,10 @@ A simple, responsive **Body Mass Index (BMI) Calculator** built using **HTML**, 
 
 ---
 BMI-Calculator/
-├── index.html # Main HTML structure
-├── styles.css # Styling rules
-├── script.js # JavaScript logic for BMI calculation
-└── README.md # Project documentation (this file)
+*index.html # Main HTML structure
+* styles.css # Styling rules
+*  script.js # JavaScript logic for BMI calculation
+  * README.md # Project documentation (this file)
 
 ## 🚀 Features
 
