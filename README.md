@@ -10,11 +10,9 @@
 
 ## 📖 About Me
 
-- 🔭 I’m currently working on *BMI calcultor app*
-- 🌱 I’m learning more about *Computer Vision and Deep Learning*
-- 👯 I’m looking to collaborate on *AI/ML Projects *
-- 💬 Ask me about *Python, Machine Learning, and Git*
-- 📫 How to reach me: *varshini.j.s@amity.edu*
+-  I’m currently working on *BMI calcultor app*
+- I’m looking to collaborate on *AI/ML Projects *
+-  How to reach me: *varshini.j.s@amity.edu*
 
 # BMI Calculator 🧮
 
