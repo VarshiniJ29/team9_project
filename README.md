@@ -11,7 +11,6 @@
 ## 📖 About Me
 
 -  I’m currently working on *BMI calcultor app*
-- I’m looking to collaborate on *AI/ML Projects *
 -  How to reach me: *varshini.j.s@amity.edu*
 
 # BMI Calculator 🧮
